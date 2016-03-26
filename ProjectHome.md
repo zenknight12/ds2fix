@@ -1,0 +1,4 @@
+<p>For PC/Steam.</p>
+<p>Increases the buffer size from 300KiB to 400KiB to prevent a memory access violation error during the game save process.</p>
+<p>Works in full automatic mode, but does not fully support a game installation other than to the default Steam library. You need to save the fix and launch it in the game's directory to get it working on a custom Steam library installation. In some cases you need to launch it with administrative privileges.</p>
+<p>Remember to turn off Steam automatic updates for the game. It seems unlikely the bug is ever going to be fixed by the developers - so no upcoming updates anyway.</p>
